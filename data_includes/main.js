@@ -95,7 +95,22 @@ Template("Experiment.csv", row => {
              .print()
              .log()
              .wait()
-       )
+             .remove()
+            ,
+            // true will be changed to something like
+            // s.comprehensionQuestion so questions only occur
+            // when they exist
+            // hasCorrect == correct answer choice
+            // 0 == no, 1 == yes
+            (true ? 
+            newController("Question", {randomOrder: false, hasCorrect: 1, as:["yes", "no"], q:"What did the carpenter rust from the chinese restaurant?"})
+                .print()
+                .log()
+                .wait()
+                :
+                null
+            )
+        )
        .log("counter", __counter_value_from_server__)
        .log("label", row.Cond)
        .log("latinitem", row.Item)
@@ -158,10 +173,6 @@ var items = [
 ];
 
 
-
-// cpanel test
-// cpanel test 2 
-// cpanel test with public repo!!
 
 
 
