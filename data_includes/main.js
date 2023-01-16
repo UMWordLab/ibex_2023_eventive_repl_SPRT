@@ -8,7 +8,7 @@ var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
                        "setcounter",
                        "starter",
  
-                       seq(rshuffle(startsWith("exp"), startsWith("husb"), startsWith("fill"))),
+                       seq(rshuffle(startsWith("mklo"), startsWith("gp"), startsWith("psych"))),
                        "sendresults",
                        "completion"
                );
@@ -91,7 +91,7 @@ var defaults = [
 Template("Experiment.csv", row => {
 
    items.push(
-       [[row.Cond,row.Item] , "PennController", newTrial(
+       [[row.label, row.item] , "PennController", newTrial(
            newController("DashedSentence", {s: row.sentence})
              .print()
              .log()
@@ -102,17 +102,16 @@ Template("Experiment.csv", row => {
             newController("Question", {randomOrder: false, 
                                       as:["yes", "no"],
                                       hasCorrect: row.correct_response,
-                                      q:row.comprehension_question})
+                                      q: row.comprehension_question})
                 .print()
                 .log()
                 .wait()
-                :
-                null
+                :null
             )
         )
        .log("counter", __counter_value_from_server__)
-       .log("label", row.Cond)
-       .log("latinitem", row.Item)
+       .log("label", row.label)
+       .log("latinitem", row.item)
        ]
    );
    return newTrial('_dummy_',null);
