@@ -89,6 +89,7 @@ var defaults = [
  
  
 Template("Experiment.csv", row => {
+
    items.push(
        [[row.Cond,row.Item] , "PennController", newTrial(
            newController("DashedSentence", {s: row.sentence})
@@ -96,14 +97,12 @@ Template("Experiment.csv", row => {
              .log()
              .wait()
              .remove()
-            ,
-            // true will be changed to something like
-            // s.comprehensionQuestion so questions only occur
-            // when they exist
-            // hasCorrect == correct answer choice
-            // 0 == no, 1 == yes
-            (true ? 
-            newController("Question", {randomOrder: false, hasCorrect: 1, as:["yes", "no"], q:"What did the carpenter rust from the chinese restaurant?"})
+             ,
+            (row.comprehension_question ? 
+            newController("Question", {randomOrder: false, 
+                                      as:["yes", "no"],
+                                      hasCorrect: row.correct_response,
+                                      q:row.comprehension_question})
                 .print()
                 .log()
                 .wait()
