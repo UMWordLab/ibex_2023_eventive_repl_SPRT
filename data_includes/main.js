@@ -1,17 +1,17 @@
 PennController.ResetPrefix(null);
  
 var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
-                       "startpractice",
-                    
-                       seq("practice"),
- 
-                       "setcounter",
-                       "starter",
- 
-                       seq(rshuffle(startsWith("mklo"), startsWith("gp"), startsWith("psych"))),
-                       "sendresults",
-                       "completion"
-               );
+                            "startpractice",
+                                            
+                            seq("practice"),
+                        
+                            "setcounter",
+                            "starter",
+
+                            seq(rshuffle(startsWith("mklo"), startsWith("gp"), startsWith("psych"))),
+                            "sendresults",
+                            "completion"
+                         );
  
 newTrial("IDentry",
    newText("instr", "Please enter your Prolific ID:").print()
@@ -24,47 +24,49 @@ newTrial("IDentry",
 )
 
 newTrial("intro",
-
     newHtml("introhtml", "intro1.html")
         .print(),
-    
+
     newText("What key do you press to read the sentence")
         .print()
-        .bold()
-    ,
+        .bold(),
+
     newScale("q1", "Spacebar", "J")
         .labelsPosition("right")
-        .print()
-    ,
+        .print(),
+
     newText("How should you read the sentence")
         .print()
-        .bold()
-    ,
+        .bold(),
+
     newScale("q2", "Out loud", "Silently")
         .labelsPosition("right")
-        .print()
-    ,
+        .print(),
+
     newText("Will the entire sentence stay on the screen?")
         .print()
-        .bold()
-    ,
+        .bold(),
+
     newScale("q3", "No", "Yes")
         .labelsPosition("right")
-        .print()
-    ,
+        .print(),
+
     newText("error", "One or more of your responses to the questions above are incorrect")
         .color("red")
-        .bold()
-    ,
+        .bold(),
+
     newButton("Continue")
         .print()
         .wait(
             getScale("q1").test.selected("Spacebar").failure(
-                getText("error").print()
+                getText("error")
+                    .print()
             ).and(getScale("q2").test.selected("Silently").failure(
-                getText("error").print()
+                getText("error")
+                    .print()
             )).and(getScale("q3").test.selected("No").failure(
-                getText("error").print()
+                getText("error")
+                    .print()
             ))
         )
 )
@@ -93,12 +95,12 @@ Template("Experiment.csv", row => {
    items.push(
        [[row.label, row.item] , "PennController", newTrial(
            newController("DashedSentence", {s: row.sentence})
-             .print()
-             .log()
-             .wait()
-             .remove()
-             ,
-            (row.comprehension_question ? 
+               .print()
+               .log()
+               .wait()
+               .remove(),
+
+            row.comprehension_question ? 
             newController("Question", {randomOrder: false, 
                                       as:["yes", "no"],
                                       hasCorrect: row.correct_response,
@@ -107,7 +109,7 @@ Template("Experiment.csv", row => {
                 .log()
                 .wait()
                 :null
-            )
+            
         )
        .log("counter", __counter_value_from_server__)
        .log("label", row.label)
