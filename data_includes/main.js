@@ -108,7 +108,8 @@ Template("Experiment.csv", row => {
                                       hasCorrect: Number(row.correct_response),
                                       q: row.comprehension_question,
                                       randomOrder: false,
-                                      presentHorizontally: true
+                                      presentHorizontally: true,
+                                      instructions: "f for left, j for right"
             })
                 .print()
                 .log()
