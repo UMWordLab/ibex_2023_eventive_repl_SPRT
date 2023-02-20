@@ -102,7 +102,7 @@ Template("Experiment.csv", row => {
 
             row.comprehension_question ? 
             newController("Question", {randomOrder: false, 
-                                      as:["yes", "no"],
+                                      as: [["f", row.answerChoice0], ["j", row.answerChoice1]],
                                       hasCorrect: row.correct_response,
                                       q: row.comprehension_question})
                 .print()
