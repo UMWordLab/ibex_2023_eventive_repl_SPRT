@@ -1,4 +1,4 @@
-.Question {
+.QuestionAlt {
     margin-left: 0;
     padding-left: 0;
 }
@@ -10,11 +10,7 @@
 }
 li.normal-answer {
     text-align: left;
-    cursor: pointer;
     padding-bottom: 1em;
-}
-li:hover.normal-answer {
-    cursor: pointer;
 }
 li.scale-box {
     float: left;
@@ -52,9 +48,5 @@ li.scale-box a:hover {
 }
 span.fake-link {
     color: blue;
-    cursor: pointer;
+    cursor: default;
 }
-span:hover.fake-link {
-    cursor: pointer;
-}
-

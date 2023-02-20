@@ -101,10 +101,15 @@ Template("Experiment.csv", row => {
                .remove(),
 
             row.comprehension_question ? 
-            newController("Question", {randomOrder: false, 
-                                      as: [["f", row.answerChoice0], ["j", row.answerChoice1]],
-                                      hasCorrect: row.correct_response,
-                                      q: row.comprehension_question})
+            newController("QuestionAlt", { 
+                                      as: [["f", row.answerchoice0], ["j",row.answerchoice1]],
+                                      // Needs to be cast as Num or else controller won't work
+                                      // is expecting a Number
+                                      hasCorrect: Number(row.correct_response),
+                                      q: row.comprehension_question,
+                                      randomOrder: false,
+                                      presentHorizontally: true
+            })
                 .print()
                 .log()
                 .wait()
