@@ -124,7 +124,15 @@
                                          [correctField, correct], 
                                          [timeField, answerTime - t.creationTime]]]); 
                 }; 
-                this.xl.append(li.append(a.append(ans))); 
+                this.xl.append(li.append(a.append(ans)));
+
+                // adds instruction text to box, indicating what button to press
+                var instruction = $(document.createElement("div"));
+                var instruction_text = typeof(this.orderedAnswers[i]) == "string" ? "": this.orderedAnswers[i][0];
+                instruction.append(instruction_text);
+                instruction.addClass(this.cssPrefix + "instructions")
+                this.xl.append(li.append(instruction));
+                
             } 
             if ((this.presentAsScale || this.presentHorizontally) && this.rightComment) { 
                 this.xl.append($(document.createElement("li")) 
