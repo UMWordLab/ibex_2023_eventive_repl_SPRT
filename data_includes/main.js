@@ -8,7 +8,8 @@ var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
                             "setcounter",
                             "starter",
 
-                            seq(rshuffle(startsWith("mklo"), startsWith("gp"), startsWith("psych"))),
+                            seq(rshuffle(startsWith("mklo"), startsWith("gp"), startsWith("Subjexp"),
+                                         startsWith("Objexp"))),
                             "sendresults",
                             "completion"
                          );
@@ -88,6 +89,36 @@ var manualSendResults = true;
  
 var defaults = [
 ];
+
+function modifyRunningOrder(ro) {
+
+    var new_ro = [];
+    item_count=0;
+    for (var i in ro) {
+      var item = ro[i];
+      // fill in the relevant experimental condition names on the next line
+      if (item[0].type.startsWith("mklo")|| item[0].type.startsWith("gp")
+            || item[0].type.startsWith("Subjexp") || item[0].type.startsWith("Objexp")) {
+          item_count++;
+          new_ro.push(item);
+        // first number after item count is how many items between breaks. second is total-items - 1
+          if (item_count%30===0 & item_count<86){
+         // value here should be total_items - items_per_block (to trigger message that last block is coming up)
+              if (item_count===47){
+                  text="End of block. Only 1 block left!";
+                  }
+              else {
+        // first number is the total number of blocks. second number is number of items per block
+                  text="End of block. "+(3-(Math.floor(item_count/30)))+" blocks left.";
+              }ro[i].push(new DynamicElement("Message", 
+                                { html: "<p>30-second break - stretch and look away from the screen briefly if needed.</p>", transfer: 30000 }));
+          }
+        } else {
+        new_ro.push(item);
+        }
+    }
+    return new_ro;
+  }
  
  
 Template("Experiment.csv", row => {
