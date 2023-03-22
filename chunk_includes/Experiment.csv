@@ -1,116 +1,116 @@
 label,cond1,cond2,cond3,cond4,item,sentence,comprehension_question,answerchoice0,answerchoice1,correct_response,amaze_labels,verb_num
-mklo.hit.100,mklo,hit,none,none,100,The workmen banged the nails.,Did the dancer bang the nails?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.101,mklo,hit,none,none,101,The king slapped the rebel.,Did the rebel get slapped by the king?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.102,mklo,hit,none,none,102,The assistant patted the dough.,Did the assistant throw away the dough?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.103,mklo,hit,none,none,103,The maidens caressed my feet.,Did the maidens caressed the baby?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.104,mklo,hit,none,none,104,The boys bit the candy.,Did the boys bite the candy?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.105,mklo,hit,none,none,105,The man beat the oxen.,Did the man beat the oxen?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.106,mklo,hit,none,none,106,The breeze tickled my neck.,Did the breeze tickle the neck?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.107,mklo,hit,none,none,107,The teenagers battered the suspects.,Did the firefighters batter the suspects?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.108,mklo,hit,none,none,108,The sheriff nudged my elbow.,Did the farmer nudge my elbow?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.109,mklo,hit,none,none,109,The jay pecked the treats.,Did the jay ignore the treats?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.110,mklo,hit,none,none,110,The warrior kicked my jaw.,Did the warrior kick my jaw?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
-mklo.hit.111,mklo,hit,none,none,111,The acid stung my eye.,Did the bee sting my eye?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
-mklo.break.100,mklo,break,none,none,100,The workmen chipped the tiles.,Did the workmen polish the car?,Yes,No,1,break1 break2 verb3 break4 break5,2
-mklo.break.101,mklo,break,none,none,101,The king crushed the protest.,Did the king crush the protest?,Yes,No,0,break1 break2 verb3 break4 break5,2
-mklo.break.102,mklo,break,none,none,102,The assistant ripped the script.,Did the actor rip the script?,Yes,No,1,break1 break2 verb3 break4 break5,2
-mklo.break.103,mklo,break,none,none,103,The boulders shattered my feet.,Did the boulders shatter my feet?,Yes,No,0,break1 break2 verb3 break4 break5,2
-mklo.break.104,mklo,break,none,none,104,The boys smashed the bottles.,Did the plumbers smash the bottles?,Yes,No,1,break1 break2 verb3 break4 break5,2
-mklo.break.105,mklo,break,none,none,105,The man tore the tickets.,Did the man tear his birthday card?,Yes,No,1,break1 break2 verb3 break4 break5,2
-mklo.break.106,mklo,break,none,none,106,The monk fractured his neck.,Did the mailman fracture his neck?,Yes,No,1,break1 break2 verb3 break4 break5,2
-mklo.break.107,mklo,break,none,none,107,The teenagers rumpled the sweaters.,Did the teenagers rumple their sweaters?,Yes,No,0,break1 break2 verb3 break4 break5,2
-mklo.break.108,mklo,break,none,none,108,The stones cracked my windshield.,Did the stones crack my windshield?,Yes,No,0,break1 break2 verb3 break4 break5,2
-mklo.break.109,mklo,break,none,none,109,The stove scorched the treats.,Did the stove scorch the treats?,Yes,No,0,break1 break2 verb3 break4 break5,2
-mklo.break.110,mklo,break,none,none,110,The warrior snapped my jaw.,Did the warrior snap my jaw?,Yes,No,0,break1 break2 verb3 break4 break5,2
+mklo.hit.100,mklo,hit,none,none,100,The workmen banged the nails.,Did a dancer bang the nails?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.101,mklo,hit,none,none,101,The king slapped the rebel.,Did a rebel get slapped by a king?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.102,mklo,hit,none,none,102,The assistant patted the dough.,Did an assistant throw away some dough?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.103,mklo,hit,none,none,103,The maidens caressed my feet.,Did maidens caress a baby?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.104,mklo,hit,none,none,104,The boys bit the candy.,Did boys bite some candy?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.105,mklo,hit,none,none,105,The man beat the oxen.,Did a man beat an oxen?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.106,mklo,hit,none,none,106,The breeze tickled my neck.,Did a breeze tickle my neck?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.107,mklo,hit,none,none,107,The teenagers battered the suspects.,Did firefighters batter some suspects?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.108,mklo,hit,none,none,108,The sheriff nudged my elbow.,Did a farmer nudge my elbow?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.109,mklo,hit,none,none,109,The jay pecked the treats.,Did a jay ignore some treats?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.110,mklo,hit,none,none,110,The warrior kicked my jaw.,Did a warrior kick my jaw?,Yes,No,0,hit1 hit2 verb3 hit4 hit5,2
+mklo.hit.111,mklo,hit,none,none,111,The acid stung my eye.,Did a bee sting my eye?,Yes,No,1,hit1 hit2 verb3 hit4 hit5,2
+mklo.break.100,mklo,break,none,none,100,The workmen chipped the tiles.,Did workmen polish the car?,Yes,No,1,break1 break2 verb3 break4 break5,2
+mklo.break.101,mklo,break,none,none,101,The king crushed the protest.,Did a king crush a protest?,Yes,No,0,break1 break2 verb3 break4 break5,2
+mklo.break.102,mklo,break,none,none,102,The assistant ripped the script.,Did an actor rip a script?,Yes,No,1,break1 break2 verb3 break4 break5,2
+mklo.break.103,mklo,break,none,none,103,The boulders shattered my feet.,Did boulders shatter my feet?,Yes,No,0,break1 break2 verb3 break4 break5,2
+mklo.break.104,mklo,break,none,none,104,The boys smashed the bottles.,Did plumbers smash some bottles?,Yes,No,1,break1 break2 verb3 break4 break5,2
+mklo.break.105,mklo,break,none,none,105,The man tore the tickets.,Did a man tear his birthday card?,Yes,No,1,break1 break2 verb3 break4 break5,2
+mklo.break.106,mklo,break,none,none,106,The monk fractured his neck.,Did a mailman fracture his neck?,Yes,No,1,break1 break2 verb3 break4 break5,2
+mklo.break.107,mklo,break,none,none,107,The teenagers rumpled the sweaters.,Did some teenagers rumple their sweaters?,Yes,No,0,break1 break2 verb3 break4 break5,2
+mklo.break.108,mklo,break,none,none,108,The stones cracked my windshield.,Did stones crack my windshield?,Yes,No,0,break1 break2 verb3 break4 break5,2
+mklo.break.109,mklo,break,none,none,109,The stove scorched the treats.,Did a stove scorch some treats?,Yes,No,0,break1 break2 verb3 break4 break5,2
+mklo.break.110,mklo,break,none,none,110,The warrior snapped my jaw.,Did a warrior snap my jaw?,Yes,No,0,break1 break2 verb3 break4 break5,2
 mklo.break.111,mklo,break,none,none,111,The oven thawed my food.,Did the sun thaw my food?,Yes,No,1,break1 break2 verb3 break4 break5,2
-gp.event.200,gp,event,none,none,200,The head librarian arranged a new weekly meeting.,Is the new meeting monthly?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.201,gp,event,none,none,201,The chief resident accused the nurse of being inefficient.,Did the chief resident praise the nurse?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.200,gp,event,none,none,200,The head librarian arranged a new weekly meeting.,Did a head librarian arrange a new monthly meeting?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8,3
+gp.event.201,gp,event,none,none,201,The chief resident accused the nurse of being inefficient.,Did a chief resident praise a nurse?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
 gp.event.202,gp,event,none,none,202,The young detective inspected the crime scene.,Is the detective young?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.203,gp,event,none,none,203,The Lebanese immigrant came to Maryland around 1966.,Did the Lebanese immigrant come to Virginia?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.204,gp,event,none,none,204,The older daughter interrupted her father.,Did the older daughter laugh with her father?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
-gp.event.205,gp,event,none,none,205,The impeached president asserted his constitutional right to immunity.,Did he assert his constiutional right to immunity?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.203,gp,event,none,none,203,The Lebanese immigrant came to Maryland around 1966.,Did a Lebanese immigrant come to Virginia?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8,3
+gp.event.204,gp,event,none,none,204,The older daughter interrupted her father.,Did an older daughter laugh with her father?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
+gp.event.205,gp,event,none,none,205,The impeached president asserted his constitutional right to immunity.,Did an impeached president assert his constiutional right to immunity?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
 gp.event.206,gp,event,none,none,206,The restless scout explored the Amazon basin.,Is the scout restless?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.207,gp,event,none,none,207,The famous violinist criticized his colleagues.,Did the famous detective criticize his colleagues?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
+gp.event.207,gp,event,none,none,207,The famous violinist criticized his colleagues.,Did a famous detective criticize his colleagues?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
 gp.event.208,gp,event,none,none,208,The Renaissance philosopher invented a complex pulley,Was the pulley complex?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.209,gp,event,none,none,209,The French ambassador visited the northern provinces of Canada.,Did the Spanish ambassador visit the northern provinces of Canada?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.209,gp,event,none,none,209,The French ambassador visited the northern provinces of Canada.,Did a Spanish ambassador visit the northern provinces of Canada?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
 gp.event.210,gp,event,none,none,210,The political prisoner contacted a Human Rights organization.,Was a Human Rights organization contacted?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.211,gp,event,none,none,211,The local athlete eluded the anxious reporter.,Was the reporter anxious?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.212,gp,event,none,none,212,The Italian minister provoked an angry response at the UN meeting.,Was the italian minister at the UN meeting?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
+gp.event.211,gp,event,none,none,211,The local athlete eluded the anxious reporter.,Is the reporter anxious?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.212,gp,event,none,none,212,The Italian minister provoked an angry response at the UN meeting.,Was an italian minister at a UN meeting?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
 gp.event.213,gp,event,none,none,213,The senior student painted his room yellow.,Was the paint yellow?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.214,gp,event,none,none,214,The retired musician built his second house from scratch.,Did the retired teacher build his second house from scratch?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.214,gp,event,none,none,214,The retired musician built his second house from scratch.,Did a retired teacher build his second house from scratch?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
 gp.event.215,gp,event,none,none,215,The old prosecutor invoked the fourth amendment.,Was the fourth amendment invoked?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.216,gp,event,none,none,216,The bossy editor allowed one party in the office.,Did the doctor allow a party in the office?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
-gp.event.217,gp,event,none,none,217,The army general clarified his political position.,Did the president clarify his political position?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.218,gp,event,none,none,218,The teaching assistant degraded his supervisor.,Did the medic degrade his supervisor?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
-gp.event.219,gp,event,none,none,219,The celebrated investor mingled with his friends.,Did the celebrated investor ignore his friends?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.220,gp,event,none,none,220,The idealistic peacekeeper disarmed the guerilla fighter.,Was the guerilla fighter disarmed?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.216,gp,event,none,none,216,The bossy editor allowed one party in the office.,Did a doctor allow a party in an office?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.217,gp,event,none,none,217,The army general clarified his political position.,Did a president clarify his political position?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.218,gp,event,none,none,218,The teaching assistant degraded his supervisor.,Did a medic degrade his supervisor?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
+gp.event.219,gp,event,none,none,219,The celebrated investor mingled with his friends.,Did a celebrated investor ignore his friends?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.220,gp,event,none,none,220,The idealistic peacekeeper disarmed the guerilla fighter.,Was a guerilla fighter disarmed?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
 gp.event.221,gp,event,none,none,221,The experienced manager assured the stockholders of success.,Is the manager experienced?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.222,gp,event,none,none,222,The executive director curtailed the workers' rights.,Did the executive director curtail the workers rights?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.223,gp,event,none,none,223,The frontier rangers decimated the illegal settlements.,Did the emperor decimate the illegal settlements?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
-gp.event.224,gp,event,none,none,224,The savvy accountant deducted the outrageous fees.,Did the savvy professor deduct the outrageous fees?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.222,gp,event,none,none,222,The executive director curtailed the workers' rights.,Did an executive director curtail the workers rights?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.223,gp,event,none,none,223,The frontier rangers decimated the illegal settlements.,Did an emperor decimate some illegal settlements?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.224,gp,event,none,none,224,The savvy accountant deducted the outrageous fees.,Did a savvy professor deduct outrageous fees?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
 gp.event.225,gp,event,none,none,225,The visiting scientist solved the intricate math problem.,Was the math problem intricate?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.226,gp,event,none,none,226,The popular Democrat avenged the workers' unfair treatment.,Did the popular monarch avenge the workers' unfair treatment?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.227,gp,event,none,none,227,The Chinese emperor noted that his subordinates were hungry.,Were the Chinese emperor's subordinates hungry?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.226,gp,event,none,none,226,The popular Democrat avenged the workers' unfair treatment.,Did a popular monarch avenge workers' unfair treatment?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8,3
+gp.event.227,gp,event,none,none,227,The Chinese emperor noted that his subordinates were hungry.,Were a Chinese emperor's subordinates hungry?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
 gp.event.228,gp,event,none,none,228,The controversial governor showed evidence in his defense.,Was the govenor controversial?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.229,gp,event,none,none,229,The dirty player exited instantly.,Did the dirty puppy exit instanly?,Yes,No,1,event1 event2 event3 verb4 event5,3
-gp.event.230,gp,event,none,none,230,The Russian diplomat stressed the importance of the economic measures.,Did the Russian diplomat stress the importance of peace?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
-gp.event.231,gp,event,none,none,231,The despotic dictator declared an embargo against Cuba.,Was the embargo against Cuba?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.232,gp,event,none,none,232,The young boy bullied his parents.,Did the young boy help his parents?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
-gp.event.233,gp,event,none,none,233,A few diligent men devised a novel communication system.,Did the men devise a novel communication system?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
+gp.event.229,gp,event,none,none,229,The dirty player exited instantly.,Was the govenor controversial?,Yes,No,1,event1 event2 event3 verb4 event5,3
+gp.event.230,gp,event,none,none,230,The Russian diplomat stressed the importance of the economic measures.,Did a Russian diplomat stress the importance of peace?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
+gp.event.231,gp,event,none,none,231,The despotic dictator declared an embargo against Cuba.,Was an embargo declared against Cuba?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
+gp.event.232,gp,event,none,none,232,The young boy bullied his parents.,Did a young boy help his parents?,Yes,No,1,event1 event2 event3 verb4 event5 event6,3
+gp.event.233,gp,event,none,none,233,A few diligent men devised a novel communication system.,Did some men devise a novel communication system?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9,3
 gp.event.234,gp,event,none,none,234,The Swedish academy awarded a Nobel Prize to an unknown scientist.,Was an unknown scientist awarded a Nobel Prize?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
-gp.event.235,gp,event,none,none,235,The advising committee reviewed the hospital's rules on patient treatment.,Did the hospital's rules on patient treatment get reviewed?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
-gp.event.236,gp,event,none,none,236,The previous administration removed evidence compromising its subordinates.,Did the previous administration remove evidence?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
-gp.event.237,gp,event,none,none,237,The food factory commissioned a small part of the necessary equipment.,Did the captain comission a small part of the necessary equpiment?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
-gp.event.238,gp,event,none,none,238,The recent polls distorted the candidate's judgment.,Did recent polls support the new taxes?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
+gp.event.235,gp,event,none,none,235,The advising committee reviewed the hospital's rules on patient treatment.,Did a hospital's rules on patient treatment get reviewed?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
+gp.event.236,gp,event,none,none,236,The previous administration removed evidence compromising its subordinates.,Did a previous administration remove evidence?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8,3
+gp.event.237,gp,event,none,none,237,The food factory commissioned a small part of the necessary equipment.,Did a captain comission a small part of some necessary equpiment?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
+gp.event.238,gp,event,none,none,238,The recent polls distorted the candidate's judgment.,Did recent polls support new taxes?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7,3
 gp.event.239,gp,event,none,none,239,Many economic problems emerged in Europe after the Second World War.,Did economic problems emerge in Australia?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
-gp.event.240,gp,event,none,none,240,The famous book discussed the financial implications of the Gulf War.,Did the famous book review art about the Gulf War?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
-gp.event.241,gp,event,none,none,241,The department chair said that the students did not come to class.,Did the students come to class?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11 event12,3
-gp.event.242,gp,event,none,none,242,The clever tyrant began to negotiate with the national parties.,Did the president negotiate with the tyrant?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
-gp.event.243,gp,event,none,none,243,The executive staff graduated from the Harvard School of Business.,Did the executive staff graduate from the Harvard School of Business?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
-gp.state.200,gp,state,none,none,200,The head librarian belonged to a union committee.,Did the head chef belong to a union committee?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.201,gp,state,none,none,201,The chief resident regarded the nurse as a dear friend.,Was the nurse regarded as a dear friend?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
-gp.state.202,gp,state,none,none,202,The young detective disliked his senior partner.,Did the young astronaut dislike his senior partner?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
+gp.event.240,gp,event,none,none,240,The famous book discussed the financial implications of the Gulf War.,Did a famous book review art about the Gulf War?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11,3
+gp.event.241,gp,event,none,none,241,The department chair said that the students did not come to class.,Did students come to class?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10 event11 event12,3
+gp.event.242,gp,event,none,none,242,The clever tyrant began to negotiate with the national parties.,Did a president negotiate with the tyrant?,Yes,No,1,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
+gp.event.243,gp,event,none,none,243,The executive staff graduated from the Harvard School of Business.,Did an executive staff graduate from the Harvard School of Business?,Yes,No,0,event1 event2 event3 verb4 event5 event6 event7 event8 event9 event10,3
+gp.state.200,gp,state,none,none,200,The head librarian belonged to a union committee.,Did a head chef belong to a union committee?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.201,gp,state,none,none,201,The chief resident regarded the nurse as a dear friend.,Was a nurse regarded as a dear friend to a chief resident?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
+gp.state.202,gp,state,none,none,202,The young detective disliked his senior partner.,Did a young astronaut dislike his senior partner?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
 gp.state.203,gp,state,none,none,203,The Lebanese immigrant lived in Maryland since 1966.,Is the immigrant Lebanese?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.204,gp,state,none,none,204,The older daughter resembled her mother.,Does the older daughter resemble her professor?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
-gp.state.205,gp,state,none,none,205,The impeached president regretted his administration's political mistakes.,Did the administration make political mistakes?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.206,gp,state,none,none,206,The restless scout respected his coach.,Did the restless swim captain respect his coach?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
-gp.state.207,gp,state,none,none,207,The famous violinist appreciated his colleagues.,Did the famous violinist appreciate his colleagues?,Yes,No,0,state1 state2 state3 verb4 state5 state6,3
-gp.state.208,gp,state,none,none,208,The Renaissance philosopher admired his ancient predecessors.,Did the magician admire his ancient predecessors?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.204,gp,state,none,none,204,The older daughter resembled her mother.,Does an older daughter resemble her professor?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
+gp.state.205,gp,state,none,none,205,The impeached president regretted his administration's political mistakes.,Did an administration make political mistakes?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.206,gp,state,none,none,206,The restless scout respected his coach.,Did a restless swim captain respect his coach?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
+gp.state.207,gp,state,none,none,207,The famous violinist appreciated his colleagues.,Did a famous violinist appreciate his colleagues?,Yes,No,0,state1 state2 state3 verb4 state5 state6,3
+gp.state.208,gp,state,none,none,208,The Renaissance philosopher admired his ancient predecessors.,Did a magician admire his ancient predecessors?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
 gp.state.209,gp,state,none,none,209,The French ambassador owned a productive factory since the nineties.,Was the ambassador Dutch?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
 gp.state.210,gp,state,none,none,210,The political prisoner deserved better treatment.,Is the prisoner a political prisoner?,Yes,No,0,state1 state2 state3 verb4 state5 state6,3
-gp.state.211,gp,state,none,none,211,The local athlete envied the Olympic champion.,Did the local athlete envy the Olympic champion?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.212,gp,state,none,none,212,The Italian minister possessed an impressive fortune before he took office.,Did the Italian minister possess an impressive fortune?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
+gp.state.211,gp,state,none,none,211,The local athlete envied the Olympic champion.,Did a local athlete envy the Olympic champion?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.212,gp,state,none,none,212,The Italian minister possessed an impressive fortune before he took office.,Did an Italian minister possess an impressive fortune?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
 gp.state.213,gp,state,none,none,213,The senior student hated his greedy roommate.,Was the roommate selfless?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.214,gp,state,none,none,214,The retired musician loved his second child very much.,Did the veternarian love his second chiild very much?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
-gp.state.215,gp,state,none,none,215,The old prosecutor cherished his close colleagues.,Did the pilot cherish his close colleagues?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.216,gp,state,none,none,216,The bossy editor needed two phones in his office.,Did the bossy actress need two phones in her office?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
-gp.state.217,gp,state,none,none,217,The army general despised the navy commander.,Did the army general despise the navy commander?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.218,gp,state,none,none,218,The teaching assistant detested his supervisor.,Did the mechanic detest his supervisor? ,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
-gp.state.219,gp,state,none,none,219,The celebrated investor resided in New York.,Did the celebrated investor reside in Califnoria?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.220,gp,state,none,none,220,The idealistic peacekeeper revered his pacifist ancestors.,Were the iealistic peacekeeper's ancestors pacifists?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.221,gp,state,none,none,221,The experienced manager trusted his employees.,Did the experienced manager fire his employees?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
-gp.state.222,gp,state,none,none,222,The executive director loathed the company's lawyer.,Did the Journalist loathe the company's lawyer?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.223,gp,state,none,none,223,The frontier rangers distrusted the Mexican immigrants.,Were the Mexican immigrants distrusted by the fronttier rangers?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.224,gp,state,none,none,224,The savvy accountant aspired to the bank's presidency.,Did the savy accountant aspire to the bank's presidenccy?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.225,gp,state,none,none,225,The visiting scientist lacked any knowledge of English.,Did the visiting scientist speak English?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.214,gp,state,none,none,214,The retired musician loved his second child very much.,Did a veternarian love his second child very much?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
+gp.state.215,gp,state,none,none,215,The old prosecutor cherished his close colleagues.,Did a pilot cherish his close colleagues?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.216,gp,state,none,none,216,The bossy editor needed two phones in his office.,Did a bossy actress need two phones in her office?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
+gp.state.217,gp,state,none,none,217,The army general despised the navy commander.,Did an army general despise a navy commander?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.218,gp,state,none,none,218,The teaching assistant detested his supervisor.,Did a mechanic detest his supervisor? ,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
+gp.state.219,gp,state,none,none,219,The celebrated investor resided in New York.,Did a celebrated investor reside in Califnoria?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.220,gp,state,none,none,220,The idealistic peacekeeper revered his pacifist ancestors.,Was an iealistic peacekeeper's ancestors pacifists?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.221,gp,state,none,none,221,The experienced manager trusted his employees.,Did an experienced manager fire his employees?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
+gp.state.222,gp,state,none,none,222,The executive director loathed the company's lawyer.,Did a Journalist loathe a company's lawyer?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.223,gp,state,none,none,223,The frontier rangers distrusted the Mexican immigrants.,Were some Mexican immigrants distrusted by the frontier rangers?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.224,gp,state,none,none,224,The savvy accountant aspired to the bank's presidency.,Did a savy accountant aspire to a bank's presidenccy?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.225,gp,state,none,none,225,The visiting scientist lacked any knowledge of English.,Did a visiting scientist speak English?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8,3
 gp.state.226,gp,state,none,none,226,The popular Democrat pitied the homeless of New York.,Was the democrat popular?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
-gp.state.227,gp,state,none,none,227,The Chinese emperor feared that his subordinates were furious.,Did the manager fear that his subordinates were furious?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
-gp.state.228,gp,state,none,none,228,The controversial governor liked limousines with a bar.,Did the controvesial govenoor like limousines with a bar?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.229,gp,state,none,none,229,The dirty player stank terribly.,Did the dirty barber stink terribly?,Yes,No,1,state1 state2 state3 verb4 state5,3
+gp.state.227,gp,state,none,none,227,The Chinese emperor feared that his subordinates were furious.,Did a manager fear that his subordinates were furious?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
+gp.state.228,gp,state,none,none,228,The controversial governor liked limousines with a bar.,Did a controvesial govenor like limousines with a bar?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.229,gp,state,none,none,229,The dirty player stank terribly.,Did a dirty barber stink terribly?,Yes,No,1,state1 state2 state3 verb4 state5,3
 gp.state.230,gp,state,none,none,230,The Russian diplomat doubted the importance of the economic measures.,Is the diplomat Russian?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
-gp.state.231,gp,state,none,none,231,The despotic dictator suspected a conspiracy against him.,Did the profesor suspect a conspiracy against him?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.232,gp,state,none,none,232,The young boy adored his parents.,Did the young boy go to the zoo with his parents?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
-gp.state.233,gp,state,none,none,233,A few diligent men comprised the king's entire army.,Was the king's army comprised of a few diligent men?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
-gp.state.234,gp,state,none,none,234,The Swedish academy owed its success to its wealthy founder.,Was the Swedish acadamy's founder wealthy?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
+gp.state.231,gp,state,none,none,231,The despotic dictator suspected a conspiracy against him.,Did a profesor suspect a conspiracy against him?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.232,gp,state,none,none,232,The young boy adored his parents.,Did a young boy go to the zoo with his parents?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
+gp.state.233,gp,state,none,none,233,A few diligent men comprised the king's entire army.,Was a king's army comprised of a few diligent men?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9,3
+gp.state.234,gp,state,none,none,234,The Swedish academy owed its success to its wealthy founder.,Was a Swedish acadamy's founder wealthy?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
 gp.state.235,gp,state,none,none,235,The advising committee consisted of several international representatives.,Were international representatives on the advising committee?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.236,gp,state,none,none,236,The previous administration contained innumerable bureaus and departments.,Did the previous administration contain inumerable bureaus and departments?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
-gp.state.237,gp,state,none,none,237,The food factory constituted a small part of the senator's assets.,Did the food factory constitute a small part of the senator's assets?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
-gp.state.238,gp,state,none,none,238,The recent polls equaled the newspaper estimate.,Did  the recent polls equal the newspaper estimate?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.236,gp,state,none,none,236,The previous administration contained innumerable bureaus and departments.,Did a previous administration contain inumerable bureaus and departments?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.237,gp,state,none,none,237,The food factory constituted a small part of the senator's assets.,Did a food factory constitute a small part of a senator's assets?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
+gp.state.238,gp,state,none,none,238,The recent polls equaled the newspaper estimate.,Did recent polls equal a newspaper estimate?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
 gp.state.239,gp,state,none,none,239,Many economic problems existed in Europe after the Second World War.,Were there many economic problems in Europe after the Second World War?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
-gp.state.240,gp,state,none,none,240,The famous book concerned the financial implications of the Gulf War.,Did the famous book concern art by Picasso?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
-gp.state.241,gp,state,none,none,241,The department chair knew that the students did not come to class.,Did the students come to class?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11 state12,3
-gp.state.242,gp,state,none,none,242,The clever tyrant wished to negotiate with the national parties.,Did the police officer wish to negotiate with the national parties?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
-gp.state.243,gp,state,none,none,243,The executive board overlapped with the advising committee.,Was the executive board meeting the same day as the advising committee meeting?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
+gp.state.240,gp,state,none,none,240,The famous book concerned the financial implications of the Gulf War.,Did a famous book concern art by Picasso?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11,3
+gp.state.241,gp,state,none,none,241,The department chair knew that the students did not come to class.,Did students come to class?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10 state11 state12,3
+gp.state.242,gp,state,none,none,242,The clever tyrant wished to negotiate with the national parties.,Did a police officer wish to negotiate with national parties?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7 state8 state9 state10,3
+gp.state.243,gp,state,none,none,243,The executive board overlapped with the advising committee.,Was an executive board meeting the same day as an advising committee meeting?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7 state8,3
 Subjexp-ActS-PassQ-AnsL.1,Subjexp,ActS,PassQ,AnsL,1,That's the actor that the director particularly appreciates because of his dramatic emotional bearing.,Who is appreciated?,the actor,the director,0,,
 Objexp-ActS-PassQ-AnsL.1,Objexp,ActS,PassQ,AnsL,1,That's the actor that the director particularly bothers because of his dramatic emotional bearing.,Who is bothered?,the actor,the director,0,,
 Subjexp-ActS-ActQ-AnsL.1,Subjexp,ActS,ActQ,AnsL,1,That's the actor that the director particularly appreciates because of his dramatic emotional bearing.,Who appreciates someone?,the director,the actor,0,,
