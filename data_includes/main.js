@@ -128,7 +128,7 @@ Template("Experiment.csv", row => {
 
    items.push(
        [[row.label, row.item] , "PennController", newTrial(
-           newController("DashedSentence", {s: row.sentence})
+           newController("DashedSentenceAlt", {s: row.sentence})
                .print()
                .log()
                .wait()
@@ -196,9 +196,9 @@ var items = [
           ["p", "First you can do three practice sentences."]
          ]}],
  
-["practice", "DashedSentence", {s:"What did the carpenter rust from the chinese restaurant?"}],
-["practice", "DashedSentence", {s:"What did the pencil despise for the newspaper?"}],
-["practice","DashedSentence", {s:"When did the butler ripple from the forgetful children?"}],
+["practice", "DashedSentenceAlt", {s:"What did the carpenter rust from the chinese restaurant?"}],
+["practice", "DashedSentenceAlt", {s:"What did the pencil despise for the newspaper?"}],
+["practice","DashedSentenceAlt", {s:"When did the butler ripple from the forgetful children?"}],
  
  
 ["starter", Message, {consentRequired: false,

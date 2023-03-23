@@ -3,7 +3,7 @@
 function boolToInt(x) { if (x) return 1; else return 0; }
 
 define_ibex_controller({
-name: "DashedSentence",
+name: "DashedSentenceAlt",
 
 jqueryWidget: {
     _init: function() {
