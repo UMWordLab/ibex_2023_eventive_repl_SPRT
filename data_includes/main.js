@@ -1,4 +1,6 @@
 PennController.ResetPrefix(null);
+DebugOff();
+
  
 var shuffleSequence = seq("consent", "IDentry", "demo", "intro",
                             "startpractice",
@@ -196,9 +198,33 @@ var items = [
           ["p", "First you can do three practice sentences."]
          ]}],
  
-["practice", "DashedSentenceAlt", {s:"What did the carpenter rust from the chinese restaurant?"}],
-["practice", "DashedSentenceAlt", {s:"What did the pencil despise for the newspaper?"}],
-["practice","DashedSentenceAlt", {s:"When did the butler ripple from the forgetful children?"}],
+["practice", "DashedSentenceAlt", {s:"The carpenter ordered food from the restaurant"},
+            "QuestionAlt",  
+            {as: [["f", "A restaurant"], ["j","A store"]],
+            hasCorrect: 0,
+            q: "Where did a carpenter get food from?",
+            randomOrder: false,
+            presentHorizontally: true}
+],
+
+["practice", "DashedSentenceAlt", {s:"The man from the newspaper despised pencils"},
+            "QuestionAlt",  
+            {as: [["f", "Pencils"], ["j","Newspapers"]],
+            hasCorrect: 0,
+            q: "What did a man despise?",
+            randomOrder: false,
+            presentHorizontally: true}
+
+],
+  
+["practice","DashedSentenceAlt", {s:"The butler ripples from the forgetful children"},
+            "QuestionAlt",{  
+            as: [["f", "A mom"], ["j","A butler"]],
+            hasCorrect: 1,
+            q: "Who ripples from some children?",
+            randomOrder: false,
+            presentHorizontally: true}
+],
  
  
 ["starter", Message, {consentRequired: false,
