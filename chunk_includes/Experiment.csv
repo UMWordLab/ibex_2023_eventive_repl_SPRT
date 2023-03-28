@@ -87,7 +87,7 @@ gp.state.216,gp,state,none,none,216,The bossy editor needed two phones in his of
 gp.state.217,gp,state,none,none,217,The army general despised the navy commander.,Did an army general despise a navy commander?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
 gp.state.218,gp,state,none,none,218,The teaching assistant detested his supervisor.,Did a mechanic detest his supervisor? ,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
 gp.state.219,gp,state,none,none,219,The celebrated investor resided in New York.,Did a celebrated investor reside in Califnoria?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
-gp.state.220,gp,state,none,none,220,The idealistic peacekeeper revered his pacifist ancestors.,Was an iealistic peacekeeper's ancestors pacifists?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
+gp.state.220,gp,state,none,none,220,The idealistic peacekeeper revered his pacifist ancestors.,Were an idealistic peacekeeper's ancestors pacifists?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
 gp.state.221,gp,state,none,none,221,The experienced manager trusted his employees.,Did an experienced manager fire his employees?,Yes,No,1,state1 state2 state3 verb4 state5 state6,3
 gp.state.222,gp,state,none,none,222,The executive director loathed the company's lawyer.,Did a Journalist loathe a company's lawyer?,Yes,No,1,state1 state2 state3 verb4 state5 state6 state7,3
 gp.state.223,gp,state,none,none,223,The frontier rangers distrusted the Mexican immigrants.,Were some Mexican immigrants distrusted by the frontier rangers?,Yes,No,0,state1 state2 state3 verb4 state5 state6 state7,3
